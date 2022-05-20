@@ -14,9 +14,13 @@ nksabdjh
 
 
 
+<<<<<<< Updated upstream
 jhgjksfhdisdiohdjkjhhhkhkhkhj  ad this is add 
 
 jhgjksfhdisdiohdjkjhhhkhkhkhj  ad this is add 
 
 
 hello new
+=======
+jhgjksfhdisdiohdjkjhhhkhkhkhj  ad this is add
+>>>>>>> Stashed changes
